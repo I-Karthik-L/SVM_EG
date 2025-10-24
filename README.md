@@ -40,8 +40,6 @@ scikit-learn
 
 matplotlib
 
-seaborn
-
 🧬 Dataset
 
 Name: Cancer_Data.csv
